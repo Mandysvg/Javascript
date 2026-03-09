@@ -1,2 +1,2 @@
-# Javascript
-These are all projects i have made using Javascript.
+# Javascript click
+These are some projects i have made using Javascript.
